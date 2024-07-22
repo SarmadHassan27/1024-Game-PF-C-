@@ -1,4 +1,4 @@
-1024 Game
+1024 Game C++
 
 Overview
 The 1024 Game is a simple sliding puzzle game where the objective is to combine tiles with the same number to form the tile with the number 1024. The game is played on a 4x4 grid and uses the keys 'w', 'a', 's', 'd' for movement.
